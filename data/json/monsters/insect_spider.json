@@ -1853,6 +1853,7 @@
     "color": "yellow",
     "description": "A giant, mutated spider lying on its back, legs twitching without pause.  A translucent slime, mixed with its ichor seeps from its joints, and its chitin is marked by numerous exit wounds.",
     "weight": "30 kg",
+    "zombify_into": "mon_null",
     "harvest": "arachnid"
   },
   {
