@@ -1837,6 +1837,7 @@
     "symbol": "d",
     "color": "light_gray",
     "description": "A barely living dog, panting in a pool of slime and blood.  As you draw near it lets out a faint whimper, and you see the smallest hint of a twitch in its tail.",
+    "zombify_into": "mon_zombie_dog",
     "looks_like": "mon_dog",
     "weight": "20 kg"
   },
